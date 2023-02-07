@@ -1,0 +1,1 @@
+{"channels":[{"channelMessages":[{"author":"Liam","_class":"Message","body":"Hello there Josh","timestamp":8},{"author":"Liam","_class":"Message","body":"5","timestamp":12},{"author":"Josh","_class":"Message","body":"Hi back liam","timestamp":15}],"channelName":"Liam","_class":"Channel"},{"channelMessages":[],"channelName":"Josh","_class":"Channel"}],"_class":"ChannelList"}
